@@ -1,0 +1,591 @@
+Package: com.ahmedbafkir.dleasy
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 4612
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./dleasy_1.5.2.deb
+Size: 774858
+MD5sum: 2326fe17dc62290cea8c3112b572873f
+SHA1: cc95e689bd16df0e747d054b6f296a0b5ff0ad62
+SHA256: 1890ddea1997c81ca12769c4d63e181e29d533bbd3fccb253d819c0018d45db2
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
+Description: Download images & videos from social apps easily!
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Ahmed Bafkir <prooxy0@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
+Dev: ahmedbafkir
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
+Name: DLEasy
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.subdiox.blitzmodder
+Version: 2.7.0
+Architecture: iphoneos-arm
+Maintainer: subdiox <subdiox@gmail.com>
+Installed-Size: 2624
+Breaks: org.coolstar.stash933
+Filename: ./com.subdiox.blitzmodder_2.7.0_iphoneos-arm.deb
+Size: 1216246
+MD5sum: ef1f1f133983144f499ac740bf322732
+SHA1: fc20f09c08a71d1e18b51ca23a34d5cafe5abb7f
+SHA256: 37e2b5ee907b677985120b3d467689f2583e2104a4bff4ef78350d1d0785a699
+Section: Utilities
+Homepage: http://subdiox.com
+Description: Mod Manager for World of Tanks Blitz
+Tag: purpose::extension
+Author: subdiox <subdiox@gmail.com>
+Depiction: Mod Manager for Blitz
+Name: BlitzModder
+
+Package: com.subdiox.hankana2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: jp.ipon3g.hankana
+Filename: ./com.subdiox.hankana2_1.0.2_iphoneos-arm.deb
+Size: 3984
+MD5sum: ff87b62415bab592acffb205d085328c
+SHA1: ffb982c80cd6d656c95f3d168af828f1ca4c811f
+SHA256: e86ea3ab7537b26e910e1061fe7f8ba4c2f2827a7b93f5c9b3ae9e7c1c1330d7
+Section: Tweaks
+Description: Adds Hankaku-Kana candidate to your keyboard. Supports from iOS7 to iOS11. (Used jp.ipon3g.hankana package binary as reference. Thanks to ipon3g)
+Author: subdiox
+Name: Hankana 2
+
+Package: com.subdiox.hankana2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: jp.ipon3g.hankana
+Filename: ./com.subdiox.hankana2_1.0.3_iphoneos-arm.deb
+Size: 4022
+MD5sum: dfdb7ca941ef16c62ac334451283886b
+SHA1: c6d8985a9b3c2e45c56a76f5c2aa22c0d8536081
+SHA256: c4c21b4bef082f5e2c6fe14b5266ab2032005c61bfbae58ff03a0f7c9ac75e24
+Section: Tweaks
+Description: Adds Hankaku-Kana candidate to your keyboard. Supports from iOS7 to iOS11. (Used jp.ipon3g.hankana package binary as reference. Thanks to ipon3g)
+Author: subdiox
+Name: Hankana 2
+
+Package: com.subdiox.hankana2
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 216
+Depends: mobilesubstrate
+Conflicts: jp.ipon3g.hankana
+Filename: ./com.subdiox.hankana2_1.0.4_iphoneos-arm.deb
+Size: 5210
+MD5sum: 5044a523065e8259facbafc54bb31e47
+SHA1: 01175edd72fcd0e041fef7f55fda25a900c50ba7
+SHA256: de5a3d91eb95f8a39f91b412c0ad9ce8f21f536365df304ff85b223d5de0a983
+Section: Tweaks
+Description: Adds Hankaku-Kana candidate to your keyboard. Supports from iOS7 to iOS11. (Used jp.ipon3g.hankana package binary as reference. Thanks to ipon3g)
+Author: subdiox
+Name: Hankana 2
+
+Package: com.subdiox.hankana2
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 264
+Pre-Depends: firmware (<< 13.0)
+Depends: mobilesubstrate
+Conflicts: jp.ipon3g.hankana
+Filename: ./com.subdiox.hankana2_1.0.5_iphoneos-arm.deb
+Size: 5068
+MD5sum: 5ab288eb7373652b80e18706e9ca6545
+SHA1: c5eb287a50665bafa9ab07141e97f4ff41c0482f
+SHA256: 584381989cd6dc78e37736539c2184a9554bd635be4c215726f31acf4b270abf
+Section: Tweaks
+Description: Adds Hankaku-kana candidate to your keyboard. Supports from iOS7 to iOS11. (Used jp.ipon3g.hankana package binary as reference. Thanks to ipon3g)
+Author: subdiox
+Name: Hankana 2
+
+Package: com.subdiox.infiniboard
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox <subdiox@gmail.com>
+Installed-Size: 336
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport (>= 1.6)
+Filename: ./com.subdiox.infiniboard_1.0.0_iphoneos-arm.deb
+Size: 73234
+MD5sum: 0edffaaa2f502320078e66f159d9af79
+SHA1: 9b36790fcaca2fa9ba1ffa17a7dd8202c5dac09f
+SHA256: 6fc6efc065649378281b88408ba5d7dbebaebea9388399169e3a36b9456e3a6a
+Section: Tweaks
+Homepage: http://subdiox.com/infiniapps.html
+Description: Vertically scroll your home screen pages! (Forked from GitHub of Infiniapps)
+Tag: purpose::extension
+Author: subdiox <subdiox@gmail.com>
+Depiction: http://subdiox.com/infiniapps.html
+Icon: file:///Library/PreferenceLoader/Preferences/Infiniboard.png
+Name: Infiniboard (iOS 10)
+
+Package: com.subdiox.infinidock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox <subdiox@gmail.com>
+Installed-Size: 348
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport
+Breaks: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
+Filename: ./com.subdiox.infinidock_1.0.0_iphoneos-arm.deb
+Size: 81512
+MD5sum: 5f67ba388326e94a59abd06326031241
+SHA1: 9218aa3b71805746448ce8d1f5c5cf14e3c427be
+SHA256: c7cd0e1954e66ff901bf998ff8ec44649edef5cddc396464eebf0120045ca5eb
+Section: Tweaks
+Homepage: http://subdiox.com/infiniapps.html
+Description: Scroll your dock with infinite icons! (Forked from GitHub of Infiniapps)
+Tag: purpose::extension
+Author: subdiox <subdiox@gmail.com>
+Depiction: http://subdiox.com/infiniapps.html
+Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
+Name: Infinidock (iOS 10)
+
+Package: com.subdiox.infinifolders
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox <subdiox@gmail.com>
+Installed-Size: 328
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport
+Filename: ./com.subdiox.infinifolders_1.0.0_iphoneos-arm.deb
+Size: 66414
+MD5sum: cf958d746ea79c01e3e99c54f46b7296
+SHA1: 9e3c823636295628c44bb2ed8c74710f9d141ca9
+SHA256: a1b66c28d4d2fe12953509907d27aeb121292fa64b735464522e64ee9ce17377
+Section: Tweaks
+Homepage: http://subdiox.com/infiniapps.html
+Description: Scroll your folders: break the icon barrier! (Forked from GitHub of Infiniapps)
+Tag: purpose::extension
+Author: subdiox <subdiox@gmail.com>
+Depiction: http://subdiox.com/infiniapps.html
+Icon: file:///Library/PreferenceLoader/Preferences/Infinifolders.png
+Name: Infinifolders (iOS 10)
+
+Package: com.subdiox.noannoyance
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8), applist (>= 1.5)
+Breaks: com.pNre.noannoyance
+Filename: ./com.subdiox.noannoyance_1.0.1_iphoneos-arm.deb
+Size: 36290
+MD5sum: 8ae3436cd06be57ed4854045cb187fdc
+SHA1: 24b6a78c2bc7dbaf7bcd5225cc49cb0d092e9e9e
+SHA256: c6a79d95071924be6e8d794360fdf6142bcf191557fd6c6e4d0ae6672d33e1e5
+Section: Tweaks
+Description: Tame iOS annoying alerts!
+Author: subdiox
+Icon: file:///Library/PreferenceBundles/NoAnnoyancePrefs.bundle/NoAnnoyance@3x.png
+Name: NoAnnoyance
+
+Package: com.subdiox.noannoyance
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 636
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8), applist (>= 1.5)
+Breaks: com.pNre.noannoyance
+Filename: ./com.subdiox.noannoyance_1.1_iphoneos-arm.deb
+Size: 43590
+MD5sum: 194b887cde4b0ab42c7b8c4ac858b46b
+SHA1: 1c7fef47d2aae1eea2fbfbdceeb3cb6eccff100e
+SHA256: f82fdd116f916588e72534010c5e66d26d57dee53c82939b15c472b52f83f60b
+Section: Tweaks
+Description: Tame iOS annoying alerts!
+Author: subdiox
+Icon: file:///Library/PreferenceBundles/NoAnnoyancePrefs.bundle/NoAnnoyance@3x.png
+Name: NoAnnoyance
+
+Package: com.subdiox.noannoyance
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 636
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8), applist (>= 1.5)
+Breaks: com.pNre.noannoyance
+Filename: ./com.subdiox.noannoyance_1.1.1_iphoneos-arm.deb
+Size: 45386
+MD5sum: 3a441af7f5e1cc70f0d2e7f5ed5217d6
+SHA1: ece939ea62bf42512ae661f269e473c53f59b791
+SHA256: 965742b727717a60720a664075783d11cdcd99dc25a5cf2a838718aeb26dcbb2
+Section: Tweaks
+Description: Tame iOS annoying alerts!
+Author: subdiox
+Icon: file:///Library/PreferenceBundles/NoAnnoyancePrefs.bundle/NoAnnoyance@3x.png
+Name: NoAnnoyance
+
+Package: com.subdiox.noannoyance
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 636
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8), applist (>= 1.5)
+Breaks: com.pNre.noannoyance
+Filename: ./com.subdiox.noannoyance_1.1.2_iphoneos-arm.deb
+Size: 49326
+MD5sum: 58f857e92e485075b04b54c749d12671
+SHA1: bd04879e7a4c30a96a2bb3610e4a483a78ba12c8
+SHA256: bdd63d9af817276717ed12500db7ab668e4d7b362a0020793c4dd8625e452ee8
+Section: Tweaks
+Description: Tame iOS annoying alerts!
+Author: subdiox
+Icon: file:///Library/PreferenceBundles/NoAnnoyancePrefs.bundle/NoAnnoyance@3x.png
+Name: NoAnnoyance
+
+Package: com.subdiox.powertap2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 288
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader
+Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot, com.dpkgdan.powertap
+Filename: ./com.subdiox.powertap2_1.0_iphoneos-arm.deb
+Size: 45136
+MD5sum: 55a036e4de792d1f5d50f0f906c7c772
+SHA1: 97143877a9661b0cb549345c4aa3894c81e598b2
+SHA256: 97342851711033a89adf9e6265b4b54ecdcf61a1d9477cceb61b772871754c5f
+Section: Tweaks
+Description: Power Tap 2 adds "Reboot", "Soft Reboot", "Respring", "Safe Mode", "UICache" to your power down options.
+Author: subdiox
+Name: Power Tap 2
+
+Package: com.subdiox.powertap2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 292
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader
+Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot, com.dpkgdan.powertap
+Filename: ./com.subdiox.powertap2_1.0.1_iphoneos-arm.deb
+Size: 45390
+MD5sum: dfd855e3dc8a4d71803133c9345220e0
+SHA1: 02107909386c503ad9b5d0d672639dfda85b7b46
+SHA256: 3a9e4844cc2ce5d143b14b0ce8ab01a2db772476715e675816f67f0b1f6913c7
+Section: Tweaks
+Description: Power Tap 2 adds "Reboot", "Soft Reboot", "Respring", "Safe Mode", "UICache" to your power down options.
+Author: subdiox
+Name: Power Tap 2
+
+Package: com.subdiox.powertap2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 508
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, com.subdiox.sud0
+Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot, com.dpkgdan.powertap
+Filename: ./com.subdiox.powertap2_1.0.2_iphoneos-arm.deb
+Size: 55278
+MD5sum: 2830c53724687cb9f6aa1dd81583ef25
+SHA1: 7201c78b514713bd6871c0d8007200ffeada3e50
+SHA256: c1851dc5531d37c4e727a2ffc9392e9e6cc545e1dab950cc68766dbd1be2feb5
+Section: Tweaks
+Description: Power Tap 2 adds "Reboot", "Soft Reboot", "Respring", "Safe Mode", "UICache" to your power down options.
+Author: subdiox
+Name: Power Tap 2
+
+Package: com.subdiox.quicklock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox <subdiox@gmail.com>
+Installed-Size: 760
+Depends: mobilesubstrate, firmware (>= 6.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: ./com.subdiox.quicklock_1.0.0_iphoneos-arm.deb
+Size: 86652
+MD5sum: b24a5987c258ff056aa0fe8f5ced6b6c
+SHA1: c02639fe4f0f8fbc3f32bddb0767cbe0fd77185f
+SHA256: fbcea3eef12686c20347559360517676a878670807e3a331ad04e8d4ee73523f
+Section: Utilities
+Description: Just touch to lock your device, iOS 6 to 11 are supported. Thanks to deVbug's quicklock46
+Author: subdiox <subdiox@gmail.com>
+Name: QuickLock
+
+Package: com.subdiox.rakutenpaypatch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./com.subdiox.rakutenpaypatch_1.0_iphoneos-arm.deb
+Size: 2610
+MD5sum: ecff8e978c0f6f0a8fb44a83ad694a98
+SHA1: 493514675896897895f70429f10ea5f53b9db13a
+SHA256: 872b2574ab846a2abe0d69b03f235b3e47ec5e1ebf34145fa367b6a5138b2e4d
+Section: Tweaks
+Description: Anti Jailbreak Detection for RakutenPay
+Author: subdiox
+Name: RakutenPay Patch
+
+Package: com.subdiox.recall
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 124
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./com.subdiox.recall_1.0_iphoneos-arm.deb
+Size: 11856
+MD5sum: 44605f2db1068124362f8dc7bdd686ea
+SHA1: fc5c3471cbe007e4d49c57f807b17953ba240045
+SHA256: b0d28bc06e4f8a1cc3a605cbecca28a80f8c9ad9af6e80c7c88ae7e6892d0de8
+Section: Tweaks
+Description: Automatic Call Recorder
+Author: subdiox
+Name: Recall
+
+Package: com.subdiox.slices2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 1148
+Depends: firmware (>= 8), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.subdiox.sud0
+Conflicts: com.expetelek.slices
+Filename: ./com.subdiox.slices2_1.0.1_iphoneos-arm.deb
+Size: 155644
+MD5sum: 95a3c35823981c18d444440c106f8d6b
+SHA1: 965b2e168771b1ef5c2172296f15e9e596f34f2b
+SHA256: bfe88356d535e0721f8f40479777bb1643833fed128737dfafe6692525b5fcfc
+Section: Tweaks
+Description: Allows you to have multiple setting and data bundles for a single application.
+Author: subdiox
+Name: Slices 2
+
+Package: com.subdiox.slices2
+Version: 1.0b1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 1064
+Depends: mobilesubstrate, preferenceloader, applist (>= 1.5.0)
+Conflicts: com.expetelek.slices
+Filename: ./com.subdiox.slices2_1.0b1_iphoneos-arm.deb
+Size: 133074
+MD5sum: 8c09773e345bb639591ade5ea75dd14d
+SHA1: 904669839a34f7ef2ecb3249daee04fea768fc65
+SHA256: 42f13705faa6f8596bff5c64b176ead20de577d0a417c3edf951cce41a598861
+Section: Tweaks
+Description: Allows you to have multiple setting and data bundles for a single application.
+Author: subdiox
+Name: Slices 2
+
+Package: com.subdiox.slices2
+Version: 1.0b2
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 1064
+Depends: firmware (>= 8), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.subdiox.sudo
+Conflicts: com.expetelek.slices
+Filename: ./com.subdiox.slices2_1.0b2_iphoneos-arm.deb
+Size: 133418
+MD5sum: 30b89ce86b1c59a79c7bfdde6cc7d9d6
+SHA1: ed0deb878ea56d439776c966b4c64fbfd5a4d3b9
+SHA256: 7a2cd9e21c3eea083ba89cbcb570adccf2d25cbb48ed4094762fe94c37b10449
+Section: Tweaks
+Description: Allows you to have multiple setting and data bundles for a single application.
+Author: subdiox
+Name: Slices 2
+
+Package: com.subdiox.slices2
+Version: 1.0b3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 1064
+Depends: firmware (>= 8), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.subdiox.sud0
+Conflicts: com.expetelek.slices
+Filename: ./com.subdiox.slices2_1.0b3_iphoneos-arm.deb
+Size: 133432
+MD5sum: d53e9785cf8992969abc30f10db1dae2
+SHA1: 9c80ce4eb2bb3caaf3250154df2dd6d00957950e
+SHA256: 313c7cfc4cf02974bc06a7baf4a129ce1be88bc9bf86e65d351306977b3ba6b5
+Section: Tweaks
+Description: Allows you to have multiple setting and data bundles for a single application.
+Author: subdiox
+Name: Slices 2
+
+Package: com.subdiox.slices2
+Version: 1.0b4
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 1148
+Depends: firmware (>= 8), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.subdiox.sud0
+Conflicts: com.expetelek.slices
+Filename: ./com.subdiox.slices2_1.0b4_iphoneos-arm.deb
+Size: 155670
+MD5sum: 15fe4f3ae056a59b9c1d84ddcad11e8c
+SHA1: 2746a41ce3d6b60a6760e4098f665c5dcadfd45b
+SHA256: 464763e6022e10deb3e39aa93e079cbd0202649c630b5f9ed61c902f9e143b54
+Section: Tweaks
+Description: Allows you to have multiple setting and data bundles for a single application.
+Author: subdiox
+Name: Slices 2
+
+Package: com.subdiox.storeswitcher2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 72
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./com.subdiox.storeswitcher2_1.0.0_iphoneos-arm.deb
+Size: 8924
+MD5sum: 156e968b2186a018d02caaa1ae01a4aa
+SHA1: b3a09758ca3896c1373dc9e787e2f38ab7acba5f
+SHA256: 9f2e0ea06d921da0d07fa70985ddda375304a7f61a99708baa5d2ea3b9fd1fdc
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
+Package: com.subdiox.storeswitcher2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 84
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./com.subdiox.storeswitcher2_1.0.1_iphoneos-arm.deb
+Size: 10720
+MD5sum: e06d17dbadcb84dd88a934c4f60a5d02
+SHA1: 20a0998a3a9816b423bc84ffcb128c4b7a56b06a
+SHA256: e360e1d2edf543f4f2ca2d0f95a6847de0fabe452ea7234f17a99fa7e39326ac
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
+Package: com.subdiox.storeswitcher2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 84
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./com.subdiox.storeswitcher2_1.0.2_iphoneos-arm.deb
+Size: 10908
+MD5sum: f45a73490781976f43feead25cd8e5ef
+SHA1: 8fba7142aad573dbc3a9e2324e2298569f2b9161
+SHA256: 112efdaa5a22c23c65923adc3b7cca759882aa63b635fdbf73ff1e8cd852245c
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
+Package: com.subdiox.storeswitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 276
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./com.subdiox.storeswitcher2_1.0.3_iphoneos-arm.deb
+Size: 20946
+MD5sum: 2f98ea7a4d8d354f5bdcf1b4a762f395
+SHA1: fed8d56ad542c5810e90a917754045e20a734182
+SHA256: 9bad409898d7322c6cb007aaa70287f8f66e7a708fb6b8ab23df41b5fce86717
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
+Package: com.subdiox.sud0
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 132
+Filename: ./com.subdiox.sud0_1.0.0_iphoneos-arm.deb
+Size: 3756
+MD5sum: 4be501693e5298277a6619a855d492bc
+SHA1: 2a287236093a576b4aab53337dbdf38526496e9d
+SHA256: dc640eb4deec66934ae98807dfa2359f4e7eb86b37ec5d3cfbcc247ef554abfb
+Section: System
+Description: sudo command, electra jailbreak supported
+Tag: role::hacker
+Author: subdiox
+Name: sud0
+
+Package: com.subdiox.sud0
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 260
+Filename: ./com.subdiox.sud0_1.0.1_iphoneos-arm.deb
+Size: 4642
+MD5sum: d659ac23395804e3d14203ea74f3e6f0
+SHA1: a9642fee45ee5e56d37768f14b1666cd99bb2584
+SHA256: 79f1c5879721616dd251d01d255a0db208f68a112de1b6ff22971334fb054691
+Section: System
+Description: sudo command, electra jailbreak supported
+Tag: role::hacker
+Author: subdiox
+Name: sud0
+
+Package: com.subdiox.tinderliker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./com.subdiox.tinderliker_1.0_iphoneos-arm.deb
+Size: 19404
+MD5sum: bc98a88f0da7d1d7776680d0f80aa736
+SHA1: af2581789363ebd755289fcada71edaf41b399a2
+SHA256: c25cb498f34c468f14850726eff54d71307217734f4c0edc25a3a27b0d9b09e5
+Section: Tweaks
+Description: Auto-liker for Tinder. You can hold like button to start auto-liking.
+Author: subdiox
+Name: AutoLiker for Tinder
+
+Package: com.subdiox.toshinpatch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./com.subdiox.toshinpatch_1.0.0_iphoneos-arm.deb
+Size: 2672
+MD5sum: a06c9a9b7571aa32b5b58275e41d8881
+SHA1: d0437d295d72b350e028f20cbf675ce2bb415582
+SHA256: 40ae0d99e0874db7dbd3669b41ca2ef9b59d73683e67c5a45fde1de86426e30b
+Section: Tweaks
+Description: Patch for ToshinSchool App
+Author: subdiox
+Name: Toshin Patch
+
+Package: com.subdiox.ufjpatch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./com.subdiox.ufjpatch_1.0_iphoneos-arm.deb
+Size: 2524
+MD5sum: e6461c41e011d3eedcb29bd9f8c65b36
+SHA1: 8e3bf977f1869f79ba73ed2e2ab481e34615c637
+SHA256: 10ca3a3b0dcbb9e0332f9ff813781c853993525d621d1b605abe1e44abce018a
+Section: Tweaks
+Description: Anti Jailbreak Detection for Mitsubishi UFJ
+Author: subdiox
+Name: UFJ Patch
+
+Package: removerecents
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: EvilPenguin|
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./removerecents_1.6_iphoneos-arm.deb
+Size: 6860
+MD5sum: 220fcac6d2661c011e6239f789164505
+SHA1: b879c51443784b9bb13ecafbb09272219e0dee88
+SHA256: 3f60847ddbe0d0f65e9fd9bc06f47467bd41cceec6745eb4393e5ba5f8fb1b97
+Section: Tweaks
+Description: Remove recently launched apps from the switcher.
+Author: EvilPenguin|
+Name: Remove Recents
+
